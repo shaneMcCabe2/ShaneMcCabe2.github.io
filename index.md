@@ -1,4 +1,4 @@
-# Shane McCabe - Data Analyst Portfolio
+Data Analyst Portfolio
 
 ## About Me
 
